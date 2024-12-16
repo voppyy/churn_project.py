@@ -49,3 +49,35 @@ Metrics such as accuracy, precision, recall, and confusion matrix are computed f
 Feature importance is visualized for models that support this analysis.
 
 
+## ⚙️ Installation
+
+1. Prerequisites:
+
+Make sure you have the following tools installed:
+
+- Python (version 3.x or above)
+- A code editor (e.g., Visual Studio Code, PyCharm)
+- Git
+
+2. Clone the repository:
+**
+
+3. Libraries Used
+
+Here’s the list of libraries required for the project:
+
+- pandas: For data manipulation and analysis
+- numpy: For numerical computations
+- matplotlib: For data visualization
+- seaborn: For statistical visualizations
+- scikit-learn: For machine learning tasks, including:
+ - train_test_split 
+ - StandardScaler, LabelEncoder 
+ - RandomForestClassifier 
+ - classification_report, confusion_matrix, accuracy_score 
+
+
+
+
+
+
