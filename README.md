@@ -51,18 +51,17 @@ Feature importance is visualized for models that support this analysis.
 
 ## ⚙️ Installation
 
+Clone the repository:
+**
+
 1. Prerequisites:
 
 Make sure you have the following tools installed:
 
 - Python (version 3.x or above)
 - A code editor (e.g., Visual Studio Code, PyCharm)
-- Git
 
-2. Clone the repository:
-**
-
-3. Libraries Used
+2. Libraries Used
 
 Here’s the list of libraries required for the project:
 
