@@ -72,9 +72,29 @@ Here’s the list of libraries required for the project:
 - seaborn: For statistical visualizations
 - scikit-learn: For machine learning tasks, including:
   - train_test_split 
-- - StandardScaler, LabelEncoder 
-- - RandomForestClassifier 
-- - classification_report, confusion_matrix, accuracy_score 
+  - StandardScaler, LabelEncoder 
+  - RandomForestClassifier 
+  - classification_report, confusion_matrix, accuracy_score
+ 
+
+## 💡 Acknowledgements
+
+We acknowledge the platform "Kaggle.com" for providing valuable datasets that were essential for this project.
+
+We would also like to credit Karina Data Scientist and her YouTube channel (Karina Data Scientist) for inspiration and guidance in developing parts of our code.
+
+Team Contributions:
+
+The project was a collaborative effort, and each team member contributed as follows:
+**
+
+
+We also acknowledge the support of generative AI platforms such as ChatGPT and Gemini, which assisted in brainstorming solutions, debugging code, and improving the documentation.
+
+All team members collaborated to upload the final version of the project to GitHub and ensured its seamless presentation.
+
+
+
 
 
 
