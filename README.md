@@ -71,7 +71,7 @@ Here’s the list of libraries required for the project:
 - matplotlib: For data visualization
 - seaborn: For statistical visualizations
 - scikit-learn: For machine learning tasks, including:
-- - train_test_split 
+  - train_test_split 
 - - StandardScaler, LabelEncoder 
 - - RandomForestClassifier 
 - - classification_report, confusion_matrix, accuracy_score 
