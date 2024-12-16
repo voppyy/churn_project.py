@@ -94,8 +94,17 @@ We also acknowledge the support of generative AI platforms such as ChatGPT and G
 All team members collaborated to upload the final version of the project to GitHub and ensured its seamless presentation.
 
 
+## 📸 Screenshots
 
+Below are some screenshots showcasing key aspects of the project:
 
+- Churn Distribution: The visualization of the churn variable before balancing the dataset.
+- Churn After Balancing: The visualization of the churn variable after applying balancing techniques.
+- Feature Importance: The importance of variables as shown by the Random Forest model.
+
+These visuals provide insights into the data analysis, model performance, and key findings of the project.
+
+**inserire screen
 
 
 
