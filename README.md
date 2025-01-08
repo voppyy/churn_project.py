@@ -103,6 +103,8 @@ These visuals provide insights into the data analysis, model performance, and ke
 
 ![descrizione immagine](https://github.com/voppyy/churn_project.py/blob/e725484d392c0a2e4b6a5cd0d5317c40e5c802bc/images/balanced%20churn%20variable%20distribution.jpg)
 
+![descrizione immagine](https://github.com/voppyy/churn_project.py/blob/db6115e6115090da82c954d38952a5073ee19284/images/variable%20importance.jpg).
+
 
 ## 📄 License
 
