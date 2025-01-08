@@ -51,8 +51,7 @@ Feature importance is visualized for models that support this analysis.
 
 ## ⚙️ Installation
 
-Clone the repository:
-**
+Clone the repository: https://github.com/voppyy/churn_project.py.git
 
 1. Prerequisites:
 
@@ -83,10 +82,7 @@ We acknowledge the platform "Kaggle.com" for providing valuable datasets that we
 We would also like to credit Karina Data Scientist and her YouTube channel (Karina Data Scientist) for inspiration and guidance in developing parts of our code.
 
 Team Contributions:
-
-The project was a collaborative effort, and each team member contributed as follows:
-**
-
+The project was a collaborative effort, with each team member contributing equally. The final outcome reflects the continuous teamwork and dedication of Valeria Coppola, Irene Malcangi, and Shereen Zangane.
 
 We also acknowledge the support of generative AI platforms such as ChatGPT and Gemini, which assisted in brainstorming solutions, debugging code, and improving the documentation.
 
