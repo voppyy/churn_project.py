@@ -99,7 +99,10 @@ Below are some screenshots showcasing key aspects of the project:
 
 These visuals provide insights into the data analysis, model performance, and key findings of the project.
 
+![descrizione immagine](https://github.com/voppyy/churn_project.py/blob/64bb54cdd1473d86d24d5a30c3227f39c38b6e72/images/churn%20variable%20distribution.jpg)
+
 ![descrizione immagine](https://github.com/voppyy/churn_project.py/blob/e725484d392c0a2e4b6a5cd0d5317c40e5c802bc/images/balanced%20churn%20variable%20distribution.jpg)
+
 
 ## 📄 License
 
