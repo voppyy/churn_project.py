@@ -99,7 +99,7 @@ Below are some screenshots showcasing key aspects of the project:
 
 These visuals provide insights into the data analysis, model performance, and key findings of the project.
 
-images/balanced churn variable distribution.jpg
+![descrizione immagine](images/churn variable distribution.png)
 
 ## 📄 License
 
