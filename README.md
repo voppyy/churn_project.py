@@ -63,20 +63,23 @@ Make sure you have the following tools installed:
 - Python (version 3.x or above)
 - A code editor (e.g., Visual Studio Code, PyCharm)
 
-2. Libraries Used
 
-Here’s the list of libraries required for the project:
+2. Create an enviroment:
+   A virtual environment isolates your project's dependencies, preventing conflicts with other projects. We used Anaconda but you can also create it from scratch.
 
-- pandas: For data manipulation and analysis
-- numpy: For numerical computations
-- matplotlib: For data visualization
-- seaborn: For statistical visualizations
-- scikit-learn: For machine learning tasks, including:
-  - train_test_split 
-  - StandardScaler, LabelEncoder 
-  - RandomForestClassifier 
-  - classification_report, confusion_matrix, accuracy_score
- 
+   
+3. Installing Libraries:
+   
+   Here’s the list of libraries required for the project:
+   - pandas: For data manipulation and analysis
+   - numpy: For numerical computations
+   - matplotlib: For data visualization
+   - seaborn: For statistical visualizations
+   - scikit-learn: For machine learning tasks
+     
+   After installing Python, create a virtual environment and install the necessary libraries using the following command in your terminal: pip install pandas numpy matplotlib seaborn 
+   scikit-learn
+
 
 ## 💡 Acknowledgements
 
