@@ -58,13 +58,13 @@ Navigate to the project directory: cd churn_project.py
 USAGE
 1. Prerequisites:
 
-Make sure you have the following tools installed:
-
-- Python (version 3.x or above)
-- A code editor (e.g., Visual Studio Code, PyCharm)
+   Make sure you have the following tools installed:
+   - Python (version 3.x or above)
+   - A code editor (e.g., Visual Studio Code, PyCharm)
 
 
 2. Create an enviroment:
+   
    A virtual environment isolates your project's dependencies, preventing conflicts with other projects. We used Anaconda but you can also create it from scratch.
 
    
