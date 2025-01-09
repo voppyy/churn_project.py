@@ -77,7 +77,7 @@ USAGE
    - seaborn: For statistical visualizations
    - scikit-learn: For machine learning tasks
      
-   After installing Python, create a virtual environment and install the necessary libraries using the following command in your terminal: pip install pandas numpy matplotlib seaborn 
+   After installing Python and creating a virtual environment, install the necessary libraries using the following command in your terminal: pip install pandas numpy matplotlib seaborn 
    scikit-learn
 
 
