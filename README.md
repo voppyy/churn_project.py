@@ -53,6 +53,9 @@ Feature importance is visualized for models that support this analysis.
 
 Clone the repository: https://github.com/voppyy/churn_project.py.git
 
+Navigate to the project directory: cd churn_project.py
+
+
 1. Prerequisites:
 
 Make sure you have the following tools installed:
